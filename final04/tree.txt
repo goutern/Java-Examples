@@ -1,0 +1,35 @@
+Leather Leaf Acacia
+Evergreen
+Pod
+12
+Oval
+Key Lime
+Evergreen
+Hesperidium
+24
+Rounded
+American Hazelnut
+Deciduous
+Nut
+24
+Umbrella
+Flowering Maple
+Evergreen
+Capsule
+24
+Oval
+Silverberry
+Evergreen
+Follicle
+36
+Vase
+Witch Hazel
+Deciduous
+Capsule
+24
+Rounded
+Cherokee Grape Myrtle
+Deciduous
+Capsule
+24
+Oval
