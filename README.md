@@ -1,5 +1,6 @@
 ### Java Examples
 
 This is a repository of examples of basic java principals.
-[ArrayList](https://github.com/ngouterm/Java-Examples/tree/master/ArrayList)
+
+1.    [ArrayList](https://github.com/ngouterm/Java-Examples/tree/master/ArrayList)
 
