@@ -3,8 +3,11 @@ package com.company;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Scanner;
 
+
+/**
+ * This class runs that UI, add, delete and basic search.
+ */
 public class Main {
     static ArrayList<Contact> contacts = new ArrayList<>();
     static BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
@@ -16,7 +19,7 @@ public class Main {
         StringBuilder sb = new StringBuilder();
         sb.append("\n\nPlease select an option\n")
                 .append("1.) Add a contact\n")
-                .append("2.) Diplay Contacts\n")
+                .append("2.) Display Contacts\n")
                 .append("3.) Search for a contact\n")
                 .append("0.) Exit");
         while (!exit) {
@@ -44,6 +47,10 @@ public class Main {
         }
     }
 
+
+    /**
+     * Reads in input for a contact, creates it and adds it to the array list
+     */
     public static void addContact(){
         boolean inputValid = false;
         String firstName = "";
@@ -72,12 +79,20 @@ public class Main {
 
     }
 
+
+    /**
+     * Displays all contacts
+     */
     public static void displayContacts(){
         for(Contact contact : contacts){
             System.out.println(contact.toString());
         }
     }
 
+
+    /**
+     * Basic case sensitive search for contacts
+     */
     public static void searchContacts(){
         boolean inputValid = false;
         String searchTerm = "";
