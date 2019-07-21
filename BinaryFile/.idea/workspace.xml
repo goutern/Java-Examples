@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c76ef5a2-6da1-4cd8-8315-9545324d11e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binaryFileAirplane/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binaryFileAirplane/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binaryFileAirplane/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binaryFileAirplane/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binaryFileAirplane/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../binaryFileAirplane/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binaryFileAirplane/BinaryFile.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binaryFileAirplane/out/production/binaryFileAirplane/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binaryFileAirplane/seatMap.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binaryFileAirplane/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/collectionPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/movies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/out/production/collectionPractice/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/src/com/company/goutermoutnHwk12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionPractice/src/com/company/movies.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,13 +23,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/goutermoutlabs/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
+              <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,10 +50,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/goutermoutlabs/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="392" />
     <option name="y" value="27" />
     <option name="width" value="640" />
@@ -70,6 +78,11 @@
               <item name="BinaryFile" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BinaryFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BinaryFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -82,7 +95,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541107179062" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Collection" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -98,7 +111,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.goutermoutlabs.Main" />
       <module name="BinaryFile" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -127,23 +140,24 @@
       <workItem from="1541539388655" duration="629000" />
       <workItem from="1542144993909" duration="21000" />
       <workItem from="1563737206648" duration="36000" />
+      <workItem from="1563737272362" duration="155000" />
+      <workItem from="1563737509180" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5127000" />
+    <option name="totallyTimeSpent" value="5296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26065302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26674044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
@@ -156,7 +170,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -166,16 +180,17 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/goutermoutlabs/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
+          <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

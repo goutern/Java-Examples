@@ -1,10 +1,9 @@
-package com.company;
+package com.goutermoutlabs;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.util.HashMap;
-import java.util.Map;
 
 public class Main {
     static File moviesFile = new File("movies.txt");

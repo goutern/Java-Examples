@@ -1,7 +1,6 @@
-package com.company;
+package com.goutermoutlabs;
 
 import java.io.*;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 
