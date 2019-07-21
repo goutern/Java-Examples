@@ -4,6 +4,11 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+/**
+ * Generic Example of a Binary File
+ * Read, Write and Edit a binary file
+ */
 public class Main {
     static Scanner scan = new Scanner(System.in);
 
