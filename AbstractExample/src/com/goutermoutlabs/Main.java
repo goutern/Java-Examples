@@ -1,12 +1,10 @@
-package com.company;
+package com.goutermoutlabs;
 
 import java.awt.desktop.SystemEventListener;
 
 public class Main {
 
-
     public static void main(String[] args) {
-	// write your code here
         Comedy comedyMovie = new Comedy();
         Action actionMovie = new Action(Movie.ratings.G, 178, "Action Time");
         Drama dramaMovie = new Drama(Movie.ratings.PG, 233, "Crazy Drama");

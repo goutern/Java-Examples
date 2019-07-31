@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa6f4b02-205a-4dc4-912c-2d474b440cca" name="Default Changelist" comment="" />
+    <list default="true" id="fa6f4b02-205a-4dc4-912c-2d474b440cca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovingShapes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentBinaryObject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Comedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Comedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Drama.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Drama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryFile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryFile/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/src/com/goutermoutlabs/Enumeration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/src/com/goutermoutlabs/Enumeration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/src/com/goutermoutlabs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileSearch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileSearch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileSearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileSearch/src/com/goutermoutlabs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileSearch/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPriorityQueue/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPriorityQueue/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPriorityQueue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPriorityQueue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPriorityQueue/src/com/goutermoutlabs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPriorityQueue/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPriorityQueue/src/com/goutermoutlabs/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPriorityQueue/src/com/goutermoutlabs/PriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/inheritanceExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/goutermoutlabs/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/goutermoutlabs/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/goutermoutlabs/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/goutermoutlabs/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/interfaceHomework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/Interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/src/com/company/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/src/com/goutermoutlabs/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/src/com/company/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/src/com/goutermoutlabs/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/src/com/company/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/src/com/goutermoutlabs/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/src/com/company/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/src/com/goutermoutlabs/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/src/com/company/goutermoutnHWK10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovingShapes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MovingShapes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovingShapes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MovingShapes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovingShapes/src/com/company/CarShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MovingShapes/src/com/goutermoutlabs/CarShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovingShapes/src/com/company/MoveableShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MovingShapes/src/com/goutermoutlabs/MoveableShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovingShapes/src/com/company/ShapeIcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MovingShapes/src/com/goutermoutlabs/ShapeIcon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovingShapes/src/com/company/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MovingShapes/src/com/goutermoutlabs/Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SelectionSort/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SelectionSort/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SelectionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SelectionSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SelectionSort/src/com/company/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SelectionSort/src/com/goutermoutlabs/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SelectionSort/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SelectionSort/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SelectionSort/src/com/company/goutermoutnHwk9.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentBinaryObject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentBinaryObject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentBinaryObject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentBinaryObject/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentBinaryObject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentBinaryObject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentBinaryObject/src/com/company/GeneralizedSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentBinaryObject/src/com/goutermoutlabs/GeneralizedSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentBinaryObject/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentBinaryObject/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentBinaryObject/src/com/company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentBinaryObject/src/com/goutermoutlabs/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentBinaryObject/src/com/company/studentBinary.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentBinaryObject/studentBinaryObject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentBinaryObject/BinaryObject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/boys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/goutermoutlabs/boys.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/girls.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/goutermoutlabs/girls.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/goutermoutHomeWork7.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceHashMap/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceHashMap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceHashMap/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceHashMap/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceHashMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceHashMap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceHashMap/practiceHashMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceHashMap/HashMap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceHashMap/src/com/company/InputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceHashMap/src/com/goutermoutlabs/InputHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceHashMap/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceHashMap/src/com/goutermoutlabs/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,50 +87,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-470239003">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="boys" value="1" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1385" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1385" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/goutermoutlabs/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
+            <state relative-caret-position="690">
+              <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,6 +130,9 @@
       <find>System.out.println</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -92,14 +140,9 @@
         <option value="$PROJECT_DIR$/src/com/company/boys.txt" />
         <option value="$PROJECT_DIR$/src/com/company/girls.txt" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/goutermoutlabs/Main.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
@@ -107,43 +150,49 @@
     <option name="width" value="650" />
     <option name="height" value="743" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="top20NameSearch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="top20NameSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="Top20NameSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Top20NameSearch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="top20NameSearch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="top20NameSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="Top20NameSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Top20NameSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Top20NameSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Top20NameSearch" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="top20NameSearch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="top20NameSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="Top20NameSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Top20NameSearch" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="goutermoutlabs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540932087427" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TryCatch" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -165,7 +214,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.goutermoutlabs.Main" />
       <module name="top20NameSearch" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -198,22 +247,24 @@
       <workItem from="1541102287094" duration="70000" />
       <workItem from="1543526746290" duration="2649000" />
       <workItem from="1544561109176" duration="1236000" />
+      <workItem from="1564536646609" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7970000" />
+    <option name="totallyTimeSpent" value="8003000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28092578" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28444937" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
@@ -224,8 +275,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -240,14 +292,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/com/goutermoutlabs/Main.java</url>
           <line>54</line>
           <properties />
           <option name="timeStamp" value="1" />
@@ -257,10 +306,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/boys" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/goutermoutlabs/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
+        <state relative-caret-position="690">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

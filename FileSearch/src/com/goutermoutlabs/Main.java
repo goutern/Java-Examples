@@ -1,4 +1,4 @@
-package com.company;
+package com.goutermoutlabs;
 
 import java.io.File;
 

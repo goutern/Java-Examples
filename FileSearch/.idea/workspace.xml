@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47b3c3cc-ef62-437d-aa7e-b9ffaaaad1d3" name="Default Changelist" comment="" />
+    <list default="true" id="47b3c3cc-ef62-437d-aa7e-b9ffaaaad1d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Enumeration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Comedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Comedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Drama.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Drama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractExample/src/com/goutermoutlabs/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryFile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryFile/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/com/goutermoutlabs/goutermoutnHwk12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/enumerationPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/Enumeration.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/src/com/company/Enumeration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/src/com/goutermoutlabs/Enumeration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enumeration/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enumeration/src/com/goutermoutlabs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/goutermoutlabs/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,33 +32,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-449573175">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.30" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="706" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="706" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/goutermoutlabs/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
@@ -45,18 +49,16 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/goutermoutlabs/Main.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="716" />
@@ -64,21 +66,49 @@
     <option name="width" value="650" />
     <option name="height" value="743" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FileSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="goutermoutlabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541542312661" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GenericPriorityQueue" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,7 +124,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.goutermoutlabs.Main" />
       <module name="fileSearch" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -122,23 +152,24 @@
       <workItem from="1541539422491" duration="3489000" />
       <workItem from="1542144996893" duration="597000" />
       <workItem from="1542315900672" duration="693000" />
+      <workItem from="1564536102424" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4779000" />
+    <option name="totallyTimeSpent" value="4816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24980047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3284553" />
@@ -146,11 +177,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -164,9 +196,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -183,7 +212,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/goutermoutlabs/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />

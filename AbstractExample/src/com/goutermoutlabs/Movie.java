@@ -1,8 +1,6 @@
-package com.company;
+package com.goutermoutlabs;
 
-import java.util.Objects;
-
-public class Movie {
+public abstract class Movie {
     private String rating;
     private int idNumber;
     private String title;

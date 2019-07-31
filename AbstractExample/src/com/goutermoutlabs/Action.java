@@ -1,4 +1,4 @@
-package com.company;
+package com.goutermoutlabs;
 
 public class Action extends Movie {
 

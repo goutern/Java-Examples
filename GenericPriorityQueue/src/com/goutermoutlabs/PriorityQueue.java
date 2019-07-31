@@ -1,4 +1,4 @@
-package com.company;
+package com.goutermoutlabs;
 
 import java.util.AbstractMap;
 import java.util.ArrayList;
